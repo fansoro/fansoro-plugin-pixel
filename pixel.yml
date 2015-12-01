@@ -1,0 +1,17 @@
+name: Pixel
+version: 1.0.0
+description: "Pixel plugin to create placeholder images for Morfy"
+author:
+  name: Sergey Romanenko
+  email: awilum@msn.com
+  url: http://morfy.org
+homepage: https://github.com/morfy-cms/morfy-plugin-pixel
+bugs: https://github.com/morfy-cms/morfy-plugin-pixel/issues
+license: MIT
+
+# Plugin settings
+enabled: true
+width: 400
+height: 200
+category: sports
+text: ''
