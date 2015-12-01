@@ -48,7 +48,7 @@ Set text
 | enabled | true | or `false` to disable the plugin |
 | width | 300 | Image width |
 | height | 200 | Image height |
-| category | sports | Image category |
+| category | sports | Image category (abstract, animals, business, cats, city, food, night, life, fashion, people, nature, sports, technics, transport) |
 | text | '' | Image text |
 
 ## License
