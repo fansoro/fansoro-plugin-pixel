@@ -1,8 +1,8 @@
 # Pixel
-Pixel plugin to create placeholder images for Morfy
+Pixel plugin to create placeholder images for Fansoro
 
 ## Installation
-See [this instruction](http://morfy.org/documentation/plugins/plugins-installation)
+See [this instruction](http://fansoro.org/documentation/plugins/plugins-installation)
 
 ## Usage in page content
 
@@ -52,4 +52,4 @@ Set text
 | text | '' | Image text |
 
 ## License
-See [LICENSE](https://github.com/morfy-cms/morfy-plugin-pixel/blob/master/LICENSE)
+See [LICENSE](https://github.com/fansoro/fansoro-plugin-pixel/blob/master/LICENSE)

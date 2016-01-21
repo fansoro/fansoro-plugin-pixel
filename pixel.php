@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Morfy Pixel Plugin
+ * Fansoro Pixel Plugin
  *
- * (c) Romanenko Sergey / Awilum <http://morfy.org>
+ * (c) Romanenko Sergey / Awilum <http://fansoro.org>
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
